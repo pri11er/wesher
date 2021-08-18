@@ -16,7 +16,7 @@ require (
 	github.com/stevenroose/gonfig v0.1.5
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/vishvananda/netlink v1.1.0
-	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200324154536-ceff61240acf
+	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210803171230-4253848d036c
 )
 
 go 1.13
