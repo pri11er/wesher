@@ -217,6 +217,10 @@ golang.zx2c4.com/wireguard v0.0.20200121 h1:vcswa5Q6f+sylDfjqyrVNNrjsFUUbPsgAQTB
 golang.zx2c4.com/wireguard v0.0.20200121/go.mod h1:P2HsVp8SKwZEufsnezXZA4GRX/T49/HlU7DGuelXsU4=
 golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200324154536-ceff61240acf h1:rWUZHukj3poXegPQMZOXgxjTGIBe3mLNHNVvL5DsHus=
 golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200324154536-ceff61240acf/go.mod h1:UdS9frhv65KTfwxME1xE8+rHYoFpbm36gOud1GhBe9c=
+golang.zx2c4.com/wireguard v0.0.0-20210427022245-097af6e1351b h1:XDLXhn7ryprJVo+Lpkiib6CIuXE2031GDwtfEm7vLjI=
+golang.zx2c4.com/wireguard v0.0.0-20210427022245-097af6e1351b/go.mod h1:a057zjmoc00UN7gVkaJt2sXVK523kMJcogDTEvPIasg=
+golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210803171230-4253848d036c h1:ADNrRDI5NR23/TUCnEmlLZLt4u9DnZ2nwRkPrAcFvto=
+golang.zx2c4.com/wireguard/wgctrl v0.0.0-20210803171230-4253848d036c/go.mod h1:+1XihzyZUBJcSc5WO9SwNA7v26puQwOEDwanaxfNXPQ=
 gopkg.in/alecthomas/kingpin.v2 v2.2.6/go.mod h1:FMv+mEhP44yOT+4EoQTLFTRgOQ1FBLkstjWtayDeSgw=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
