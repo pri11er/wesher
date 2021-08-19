@@ -4,7 +4,7 @@ require (
 	github.com/armon/go-metrics v0.3.3 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/google/btree v1.0.0 // indirect
-	github.com/hashicorp/go-immutable-radix v1.2.0 // indirect
+	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-msgpack v1.1.5 // indirect
 	github.com/hashicorp/go-sockaddr v1.0.2
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
